@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381332948181",
+    "project_id": "diumicrojob",
+    "storage_bucket": "diumicrojob.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381332948181:android:2ec333f8f1aa4d5d23ce5c",
+        "android_client_info": {
+          "package_name": "com.diumicrojob.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl6m4SJ7Q9wv37_WkQLElOb8kKapdAPIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
